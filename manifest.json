@@ -1,8 +1,8 @@
 {
   "name": "Norwegian Holiday Calendar",
-  "short_name": "HolidayCalendar",
+  "short_name": "Norsk Kalender",
   "description": "En interaktiv kalender for norske helligdager, bevegelige helligdager og inneklemte dager.",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1c92d2",
